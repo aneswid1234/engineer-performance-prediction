@@ -37,7 +37,7 @@ FULL_FEATURES = [
 ]
 
 EFFICIENCY_MIN = 0.0
-EFFICIENCY_MAX = 14.0
+EFFICIENCY_MAX = 25.0
 
 
 st.set_page_config(
